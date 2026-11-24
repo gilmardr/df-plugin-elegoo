@@ -31,7 +31,7 @@
   },
   {
     "presetId": "elegoo-mars-5-goo",
-    "profileVersion": 2,
+    "profileVersion": 3,
     "manufacturer": "ELEGOO",
     "family": "Mars",
     "name": "Mars 5",
@@ -43,7 +43,7 @@
     "buildVolumeMm": {
       "width": null,
       "depth": null,
-      "height": 165
+      "height": 150
     },
     "pixelSize": {
       "x": 35,
